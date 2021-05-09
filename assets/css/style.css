@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-
+/* header begins */
 
 .header {       
     padding: 20px;
@@ -25,6 +25,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* changed div to nav */
 
 .header nav {
     padding-top: 15px;
@@ -52,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* hero begins */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -71,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* hero ends */
 /* Content section begins */
 
 .content {

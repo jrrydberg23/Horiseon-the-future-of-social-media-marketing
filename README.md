@@ -25,4 +25,17 @@ index.html:
 
 CSS:
 
-1.
+1. Commented Header begins
+2. Commented changed div to nav
+3. Changed div to nav
+4. Commented hero begins
+5. Commented hero ends
+6. Commented content section begins
+7. Consolidated redundant code in content
+8. Commented content section ends
+9. Commented benefits section begins
+10. Consolidated redundant code in benefits
+11. Commented benefits ends
+12. Commented footer section begins
+13. Commented footer section ends
+
